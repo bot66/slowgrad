@@ -1,2 +1,2 @@
 # slowgrad
-A slower deep learning framework
+# *Life is short, Why not slow down a bit.*
